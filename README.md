@@ -1,2 +1,2 @@
 # APIC
-APIC is a cool application!!!
+APIC is a cool app
